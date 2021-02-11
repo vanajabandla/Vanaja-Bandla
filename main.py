@@ -1,4 +1,4 @@
-   # python program for radius of a circle
+   # python program which accepts radius of a circle 
   
   from math impro pi
   
