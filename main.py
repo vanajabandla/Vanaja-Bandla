@@ -16,3 +16,5 @@ if num > 1
               #or equal to 1, it is not prime
           else:
           print(num,"is not a prime number")
+output 407 is not a prime number
+11 times of 37 is 407
